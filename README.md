@@ -1,4 +1,4 @@
-# Dice Game 🎲
+# Dice Game 
 
 Bu iOS uygulaması, ekrana her dokunulduğunda zar resimlerini rastgele güncelleyerek beş zarla oynanan basit bir şans oyununu simüle eder. Oyun, görsel olarak kullanıcıya gelen zarlar sonucu bir skor verir kullanıcı yüksek skor elde etmeye çalışır
 
